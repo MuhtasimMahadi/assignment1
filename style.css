@@ -85,6 +85,12 @@
     display: inline-block;
     text-align: right;
 }
+.secoundimg{
+    background-image: url(/resources/2nd_image.png);
+}
+.thirdimage{
+    background-image: url(/resources/);
+}
 
 .third {
     background-image: url(/resources/Vectorrr.png);
